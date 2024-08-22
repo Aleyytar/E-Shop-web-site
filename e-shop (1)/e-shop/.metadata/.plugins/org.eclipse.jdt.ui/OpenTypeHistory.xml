@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=demo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;shop.demo.core.cloudinary{CloudinaryService.java[CloudinaryService" modifiers="513" timestamp="1695920740708"/>
+    <typeInfo handle="=demo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;shop.demo.business.abstracts.followerServices.customerFollowerServices{CustomerFollowerService.java[CustomerFollowerService" modifiers="513" timestamp="1718520732295"/>
+    <typeInfo handle="=demo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;shop.demo.business.abstracts.followerServices.companyFollowerServices{CompanyFollowerService.java[CompanyFollowerService" modifiers="513" timestamp="1719062938555"/>
+    <typeInfo handle="=demo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;shop.demo.business.abstracts.favoriteServices{FavoriteProductService.java[FavoriteProductService" modifiers="513" timestamp="1698862744739"/>
+    <typeInfo handle="=demo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;shop.demo.business.abstracts.colorsServices{ColorService.java[ColorService" modifiers="513" timestamp="1718110088391"/>
+    <typeInfo handle="=demo/C:\/Users\/Yunus Emre\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.1.4\/spring-data-jpa-3.1.4.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.1.4=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1695740053251"/>
+    <typeInfo handle="=demo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;shop.demo.dataAccess.abstracts{SubCategoryRepository.java[SubCategoryRepository" modifiers="513" timestamp="1715977533340"/>
+    <typeInfo handle="=demo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;shop.demo.business.abstracts.categoryServices{SubCategoryService.java[SubCategoryService" modifiers="513" timestamp="1715977523922"/>
+</typeInfoHistroy>
